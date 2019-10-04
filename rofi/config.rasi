@@ -1,0 +1,104 @@
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus-icon-theme";
+  cycle:              true;
+  hide-scrollbar:     true;
+  disable-history:    false;
+  modi:               "drun";
+  display-drun:       "apps";
+  columns: 1;
+}
+/*
+ * ROFI One Dark
+ *
+ * Based on OneDark.vim (https://github.com/joshdick/onedark.vim)
+ *
+ * Author: Benjamin Stauss
+ * User: me-benni
+ *
+ */
+
+
+* {
+  black:      #2f2f2f;
+  red:        #d75f5f;
+  green:      #8fee96;
+  yellow:     #af865a;
+  blue:       #458588;
+  mangenta:   #775759;
+  cyan:       #84edb9;
+  emphasis:   #2f2f2f;
+  text:       #dfdfdf;
+  text-alt:   #b2b2b2;
+  fg:         #c0b18b;
+  bg:         #202020;
+
+  spacing: 0;
+  background-color: @bg;
+
+  font: "Ubuntu Mono 12";
+  text-color: @text;
+}
+
+
+inputbar {
+  margin: 10px 10px 10px 10px;
+  children: [prompt, textbox-prompt-colon, entry, case-indicator];
+}
+
+prompt {
+  text-color: @green;
+}
+
+textbox-prompt-colon {
+  expand: false;
+  str: ":";
+  text-color: @text;
+}
+
+entry {
+  margin: 0px 10px;
+}
+
+listview {
+  spacing: 5px;
+  dynamic: true;
+  scrollbar: false;
+}
+
+element {
+  padding: 5px;
+  text-color: @text-alt;
+  highlight: bold #95ee8f; /* green */
+  border-radius: 3px;
+}
+
+element selected {
+  background-color: @emphasis;
+  text-color: @text;
+}
+
+element urgent, element selected urgent {
+  text-color: @red;
+}
+
+element active, element selected active {
+  text-color: @red;
+}
+
+
+
+button selected {
+  padding: 5px;
+  border-radius: 3px;
+  background-color: @emphasis;
+}
+
+
+window {
+	transparency: "read";
+	background-color: @bg;
+	width: 30%;
+	height: 30%;
+	anchor: center;
+}

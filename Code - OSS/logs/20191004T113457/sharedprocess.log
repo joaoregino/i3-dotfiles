@@ -1,0 +1,32 @@
+[2019-10-04 11:35:01.226] [sharedprocess] [info] main {"machineId":"74ce42794c55357512341934088740d09412bd0c5f21546f7a1664762c7ef4b8"}
+[2019-10-04 11:35:23.833] [sharedprocess] [info] Installing extension: ikuyadeu.r
+[2019-10-04 11:35:40.117] [sharedprocess] [info] Downloaded extension: ikuyadeu.r /tmp/239757bc-7f37-4f46-8b5a-45c55c29c6a2
+[2019-10-04 11:35:40.211] [sharedprocess] [info] Extracted extension to /home/hackerman/.vscode-oss/extensions/.ikuyadeu.r-1.1.4: ikuyadeu.r
+[2019-10-04 11:35:40.212] [sharedprocess] [info] Renamed to /home/hackerman/.vscode-oss/extensions/ikuyadeu.r-1.1.4
+[2019-10-04 11:35:40.213] [sharedprocess] [info] Installation completed. ikuyadeu.r
+[2019-10-04 11:35:40.391] [sharedprocess] [info] Extensions installed successfully: ikuyadeu.r
+[2019-10-04 11:35:41.224] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-04 11:35:42.054] [sharedprocess] [info] Installing extension: ivangabriele.vscode-git-add-and-commit
+[2019-10-04 11:35:51.011] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-10-04 11:36:32.599] [sharedprocess] [info] Installing extension: akamud.vscode-theme-onelight
+[2019-10-04 11:36:43.031] [sharedprocess] [info] Downloaded extension: akamud.vscode-theme-onelight /tmp/e7f30137-712c-4858-990a-11cee8ed1ce1
+[2019-10-04 11:36:43.155] [sharedprocess] [info] Extracted extension to /home/hackerman/.vscode-oss/extensions/.akamud.vscode-theme-onelight-2.1.0: akamud.vscode-theme-onelight
+[2019-10-04 11:36:43.155] [sharedprocess] [info] Renamed to /home/hackerman/.vscode-oss/extensions/akamud.vscode-theme-onelight-2.1.0
+[2019-10-04 11:36:43.155] [sharedprocess] [info] Installation completed. akamud.vscode-theme-onelight
+[2019-10-04 11:36:43.195] [sharedprocess] [info] Extensions installed successfully: akamud.vscode-theme-onelight
+[2019-10-04 11:37:04.194] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-10-04 11:37:29.939] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/b1746e9e-c697-4732-b6f7-c7a354736260
+[2019-10-04 11:37:30.140] [sharedprocess] [info] Extracted extension to /home/hackerman/.vscode-oss/extensions/.vscodevim.vim-1.11.0: vscodevim.vim
+[2019-10-04 11:37:30.140] [sharedprocess] [info] Renamed to /home/hackerman/.vscode-oss/extensions/vscodevim.vim-1.11.0
+[2019-10-04 11:37:30.141] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-10-04 11:37:30.261] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-10-04 11:48:04.647] [sharedprocess] [info] Downloaded extension: ivangabriele.vscode-git-add-and-commit /tmp/7ca400d3-6c0e-4663-a803-723d1eca0699
+[2019-10-04 11:48:05.090] [sharedprocess] [info] Extracted extension to /home/hackerman/.vscode-oss/extensions/.ivangabriele.vscode-git-add-and-commit-2.1.1: ivangabriele.vscode-git-add-and-commit
+[2019-10-04 11:48:05.090] [sharedprocess] [info] Renamed to /home/hackerman/.vscode-oss/extensions/ivangabriele.vscode-git-add-and-commit-2.1.1
+[2019-10-04 11:48:05.091] [sharedprocess] [info] Installation completed. ivangabriele.vscode-git-add-and-commit
+[2019-10-04 11:48:05.203] [sharedprocess] [info] Extensions installed successfully: ivangabriele.vscode-git-add-and-commit
+[2019-10-04 11:49:26.606] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/8d9d93b0-39d0-40e1-a728-360f917c7b79
+[2019-10-04 11:49:28.771] [sharedprocess] [info] Extracted extension to /home/hackerman/.vscode-oss/extensions/.ms-python.python-2019.9.34911: ms-python.python
+[2019-10-04 11:49:28.771] [sharedprocess] [info] Renamed to /home/hackerman/.vscode-oss/extensions/ms-python.python-2019.9.34911
+[2019-10-04 11:49:28.777] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-10-04 11:49:28.837] [sharedprocess] [info] Extensions installed successfully: ms-python.python

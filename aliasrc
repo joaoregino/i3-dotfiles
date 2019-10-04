@@ -1,0 +1,51 @@
+#!/bin/sh
+alias ka="killall" \
+	mkd="mkdir -pv" \
+	mpv="mpv --input-ipc-server=/tmp/mpvsoc$(date +%s)" \
+	calcurse="calcurse -D ~/.config/calcurse" \
+	p="sudo pacman" \
+	SS="sudo systemctl" \
+	g="git" \
+	gc="git clone" \
+	gps="git push" \
+	gpl="git pull" \
+	trem="transmission-remote" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	x="sxiv -ft *" \
+	off="poweroff" \
+	gua="git remote | xargs -L1 git push --all" \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi" \
+	ytd="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s '" \
+	yt="youtube-dl --add-metadata -i -o '%(title)s.%(ext)s '" \
+	yta="yt -x -f bestaudio/best" \
+	YT="youtube-viewer" \
+	update="sudo pacman -Syu" \
+	install="sudo pacman -S" \
+	uninstall="sudo pacman -R"\
+	ffmpeg="ffmpeg -hide_banner" \
+	cdk="cd /home2/kabir/"
+
+alias cdd="cd /home/kabir/codes/mine/Rlearning"
+alias r="ranger" 
+alias pm="python manage.py" 
+alias prs="python manage.py runserver" 
+alias a="aiksaurus"
+alias py="python" 
+alias fm="vifm"
+alias cp="cp -i" # confirms before overwriting
+alias pm="python manage.py"
+alias python="python3"
+alias unix="/home/kabir/.local/bin/unix"
+#added from archlabs zshrc file
+alias upd="sudo pacman -Syyu"
+alias pacman="sudo pacman --color auto"
+alias dir="dir --color=auto"
+alias vdir="vdir --color=auto"
+#alias vim="nvim -u /home/kabir/.bashrc"
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.
+
+vf() { fzf | xargs -r -I % $EDITOR % ;}
