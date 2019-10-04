@@ -30,7 +30,7 @@ This repository consists of configuration for any tools I use within my Arch Lin
     
 ## Author
 
-[@Kabir Nayeem][https://t.me/kabirnayeem99]
+[@Kabir Nayeem](https://t.me/kabirnayeem99)
 
 ## Use
 
