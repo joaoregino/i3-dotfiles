@@ -1,7 +1,8 @@
 <h1 align="center">My Simple i3</h1>
+This repository consists of configuration for any tools I use within my Arch Linux and [Vim][] development environment. I use a *lot* of tools which culminate in a sort of Unix IDE, I use [stow][] to link all of the required configuration into my home directory.
 
 ![i3 dotfiles](https://raw.githubusercontent.com/kabirnayeem99/i3-dotfiles/master/2019-10-04-152920_1366x768_scrot.png)
-This repository consists of configuration for any tools I use within my Arch Linux and [Vim][] development environment. I use a *lot* of tools which culminate in a sort of Unix IDE, I use [stow][] to link all of the required configuration into my home directory.
+
 
 ## Details
 
@@ -26,7 +27,10 @@ This repository consists of configuration for any tools I use within my Arch Lin
     - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - An open source Freedesktop icon theme and inspired by Material Design.
     - [Zathura](https://github.com/pwmt/zathura) - Highly customizable, functional, and a minimalist document viewer
     - [Code - OSS](https://github.com/microsoft/vscode) - Simple and functional code editor from Microsoft.
+    
+## Author
 
+[@Kabir Nayeem][https://t.me/kabirnayeem99]
 
 ## Use
 
