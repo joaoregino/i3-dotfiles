@@ -28,6 +28,7 @@ alias ka="killall" \
 	uninstall="sudo pacman -R"\
 	ffmpeg="ffmpeg -hide_banner" \
 	cdk="cd /home2/kabir/"
+	cat="bat"
 
 alias cdd="cd /home/kabir/codes/mine/Rlearning"
 alias r="ranger" 
