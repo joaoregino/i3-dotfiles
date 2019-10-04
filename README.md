@@ -1,6 +1,6 @@
 <h1 align="center">My Simple i3</h1>
 
-![i3 dotfiles](https://files.dikiaap.id/img/dotfiles/i3.png)
+![i3 dotfiles](https://raw.githubusercontent.com/kabirnayeem99/i3-dotfiles/master/2019-10-04-152920_1366x768_scrot.png)
 
 
 ## Details
