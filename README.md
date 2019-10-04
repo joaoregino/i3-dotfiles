@@ -27,6 +27,7 @@ This repository consists of configuration for any tools I use within my Arch Lin
     - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - An open source Freedesktop icon theme and inspired by Material Design.
     - [Zathura](https://github.com/pwmt/zathura) - Highly customizable, functional, and a minimalist document viewer
     - [Code - OSS](https://github.com/microsoft/vscode) - Simple and functional code editor from Microsoft.
+    - [sxiv](https://github.com/muennich/sxiv) - A simple and minimalist X image viewer.
     
 ## Author
 
