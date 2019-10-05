@@ -10,6 +10,7 @@ This repository consists of configuration for any tools I use within my Manjaro 
     - [Bash](https://git.savannah.gnu.org/cgit/bash.git) - A Unix shell and command language.
     - [Vim](https://github.com/neovim/neovim) -  greatly improved version of the good old UNIX editor Vi.
         - [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Improves Vim's support to edit R code.
+    - [SC-IM](https://github.com/andmarti1424/sc-im) -  An ncurses vim-based spreadsheet program for terminal 
     - [Git](https://github.com/git/git) - A free and open source distributed version control system.
     - [htop](https://github.com/hishamhm/htop) - An interactive text-mode process viewer.
     - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
