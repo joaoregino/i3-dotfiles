@@ -27,6 +27,8 @@ This repository consists of configuration for any tools I use within my Manjaro 
     - [Matcha Theme](https://github.com/vinceliuice/matcha) - A flat theme for GTK 3, GTK 2, and GNOME Shell.
     - [Papirus Icon Theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - An open source Freedesktop icon theme and inspired by Material Design.
     - [Zathura](https://github.com/pwmt/zathura) - Highly customizable, functional, and a minimalist document viewer
+        - [zathura-pdf-mupdf](https://github.com/pwmt/zathura-pdf-mupdf) -  adds PDF support to zathura by using the mupdf
+rendering library.
     - [Code - OSS](https://github.com/microsoft/vscode) - Simple and functional code editor from Microsoft.
     - [sxiv](https://github.com/muennich/sxiv) - A simple and minimalist X image viewer.
     
